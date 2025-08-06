@@ -24,7 +24,7 @@ Este es un sistema de ventas desarrollado en Java utilizando Swing para la inter
 
 2. **Importar la base de datos:**
 
-- Dentro del proyecto encontrarás un archivo .sql con la estructura de la base de datos.
+- Dentro del proyecto encontrarás una carpeta llamada `db` que dentro contiene un archivo .sql con la estructura de la base de datos.
 
 - Usa MySQL Workbench para importarlo.
 
